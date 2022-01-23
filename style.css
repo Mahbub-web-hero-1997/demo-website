@@ -31,5 +31,6 @@ body{
    background-blend-mode: overlay;
 }
 .button_hover:hover{
-    background: rgba(0, 0, 0, 0.616);
+    background: rgba(0, 0, 0, 0.288);
+    background-blend-mode: overlay;
 }
