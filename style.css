@@ -16,9 +16,10 @@ body{
 }
 .banner{
     height: calc(100vh - 80px);
+    min-height: 700px;
 }
 .new-webDesign{
-    height: 100vh;
+  
 }
 #feature{
     height: 100vh;
